@@ -1,0 +1,69 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0px;
+  
+}
+
+.facebook{
+    background-color: #3f5c9a;
+    height: 100px;
+    position: relative;
+}
+.face{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    top: 15%;
+    left: 5%;
+}
+.table{
+    color: white;
+    position: absolute;
+    top: 15%;
+    right: 70px;
+}
+
+.container{
+    background-image: linear-gradient(white, #acadb4);
+    width: 100%;
+    height: 600px;
+    position: relative;
+
+}
+
+.image{
+    width: 700px;
+    height: 300px;
+    top: 100px;
+    left: 50px;
+    position: absolute;
+}
+.a{
+    color: #3f5c9a;
+    position: absolute;
+    top: 30px;
+    left: 70px;
+    font-size: 25px;
+}
+.forget{
+    color: white;
+}
+.signup{
+    left: 70px;
+}
+.signup{
+    position: absolute;
+    float: right;
+    top: 12px;
+    left: 800px;
+    color: #3f5c9a;
+}
+
+
+
+
+
+
+
+
+
