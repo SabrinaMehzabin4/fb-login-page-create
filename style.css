@@ -55,9 +55,52 @@ body{
     position: absolute;
     float: right;
     top: 12px;
-    left: 800px;
+    left: 900px;
     color: #3f5c9a;
 }
+.details{
+    height: 200px;
+    weight:40px ;
+    padding: 20px;
+    text-align: right;
+}
+#original{
+    display: none;
+}
+
+#box{
+    padding-right: 100px;
+   padding-top: 8px;
+   padding-bottom: 8px;
+   display: inline;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.form-group label {
+    margin-right: 10px;
+}
+.form-group select {
+    margin-right: 10px;
+}
+
+.button{
+    color: white;
+    background-color: #56953e;
+    padding: 8px 30px 8px 30px;
+    
+}
+hr{
+    border: 0;
+    height: 2px;
+    background-color: #a79f9f;
+    margin: 20px 0;
+    width: 120%;
+}
+
 
 
 
